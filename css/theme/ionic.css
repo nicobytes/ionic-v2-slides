@@ -16,7 +16,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #313744;
+  background: #4f8ff7;
   background-color: #313744; }
 
 .reveal {
@@ -341,7 +341,7 @@ body {
     width: 100px;
     margin: 40px 20px 0 20px; }
   .reveal .stack {
-    width: 330px;
+    width: 100%;
     margin: 0 350px 0 0;
     list-style-type: none; }
     .reveal .stack li {
